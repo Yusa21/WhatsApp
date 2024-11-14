@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaJetPackCompose</string>
+    <string name="logo">WhatsApp</string>
+    <string-array name="contactos">
+        <item id="1">Daniel 1</item>
+        <item id="2">Daniel 2</item>
+        <item id="3">Pablo</item>
+        <item id="4">Daniel 3</item>
+    </string-array>
+</resources>
