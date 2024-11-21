@@ -7,4 +7,12 @@
         <item id="3">Pablo</item>
         <item id="4">Daniel 3</item>
     </string-array>
+    <string-array name="mensajes">
+        <item id="1">Hola|Como tiras</item>
+        <item id="2">Por favor Esmeralda también son mis hijos</item>
+        <item id="3">Tu, tienes la tarea?</item>
+        <item id="4">سهل سهل لHONDA CIVIC|سيئة سيئة سيئ|جلدة القمامة ليست القمامة قمامةEASY</item>
+    </string-array>
+
+
 </resources>
